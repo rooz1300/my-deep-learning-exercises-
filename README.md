@@ -30,17 +30,6 @@ This repository contains a variety of deep learning projects and experiments imp
 
 ---
 
-## 📚 References
-
-Projects may be inspired by:
-- Coursera Deep Learning Specialization
-- Stanford CS231n / CS224n
-- PyTorch & TensorFlow official tutorials
-- Fast.ai courses
-- Academic papers and Kaggle kernels
-
----
-
 ## 📬 Contact
 
 **Author**: Roozbeh Badiei  
@@ -48,10 +37,5 @@ Projects may be inspired by:
 
 ---
 
-## 📄 License
-
-This repository is distributed under the [MIT License](LICENSE).
-
----
 
 I hope you find this repository useful for your learning or projects. 😊
